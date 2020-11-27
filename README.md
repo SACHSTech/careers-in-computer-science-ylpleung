@@ -9,6 +9,7 @@ Designs, develops, and tests games for consoles, computers, mobiles, etc.
 * Allowing online access of games
 * Designing layout of game
 ## Required Education
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-ylpleung/blob/main/iu.png "cap") 
 ### Bachelor's degree  
 game design / game development / computer science / computer engineering / 
 humanities(especially psychology) / art
@@ -64,6 +65,7 @@ video game development / software development
 Paid time off
 #### Responsibilities
 * create professional looking user interfaces for Vankrupt Games 
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-ylpleung/blob/main/iu-6.jpeg "Vankrupt")
   - Implementation of various interfaces and widgets
   - User experience analysis
   - Working with programmers and graphic designers
@@ -108,6 +110,7 @@ Paid time off
 - Knowledge of and experience with measuring performance gain for users: e.g., learning gain for training tasks and measures of task performance for information-retrieval tools
 ## Post Secondary program
 ### Game Design and Development(BFAA) : Wilfrid Laurier University
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-ylpleung/blob/main/iu-4.jpeg "Well known gaming companies")
 #### Entrance requirements
 low 70s, low 80s to be competitive, at least 70% in English
 #### Available courses 
@@ -140,3 +143,18 @@ Unity Game Maker, Adventure Game Studio etc Platforms
   - → Develop computer skills 
   - → Practise perseverance, self regulation, meticulousness
   - → May be convo starter in job interviews
+### Works cited
+#### websites
+1. “Game Developer: Job Description, Duties and Requirements.” Study.com, 2014,  [study.com/articles/Game_Developer_Job_Description_Duties_and_Requirements.html.](https://study.com/articles/Game_Developer_Job_Description_Duties_and_Requirements.html)  Accessed 25 Nov. 2020.
+2. “Become a Gaming Programmer: Step-by-Step Career Guide.” Study.com, 2016, [study.com/articles/Become_a_Gaming_Programmer_Step-by-Step_Career_Guide.html.](https://study.com/articles/Become_a_Gaming_Programmer_Step-by-Step_Career_Guide.html) Accessed 25 Nov. 2020.
+3. Eleos Technologies. “Entry-Level Software Tester.” Indeed.com, 2020, [www.indeed.com/q-Entry-Level-Game-Developer-jobs.html?vjk=ea89bdb3f2946ccb](www.indeed.com/q-Entry-Level-Game-Developer-jobs.html?vjk=ea89bdb3f2946ccb). Accessed 25 Nov. 2020.
+4. Vankrupt Games. “Game UI Developer.” Workopolis.com, 18 Nov. 2020, [www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=YbzlvVoPSed8xHQsMFCEnwmqYX-BiDHgzRqSIvvn5lgmguPwKZ24kA.](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=&job=YbzlvVoPSed8xHQsMFCEnwmqYX-BiDHgzRqSIvvn5lgmguPwKZ24kA) Accessed 25 Nov. 2020
+5. ARiA. “UX / UI / Interaction Designer / Front-End Developer.” Www.Indeed.com, 19 Nov. 2020, [www.indeed.com/q-Entry-Level-Game-Developer-jobs.html?vjk=3921bb40f8a4e24b&advn=5853698494978714.](www.indeed.com/q-Entry-Level-Game-Developer-jobs.html?vjk=3921bb40f8a4e24b&advn=585369849497871) Accessed 25 Nov. 2020.
+6. Wilfrid Laurier University. “Game Design and Development (BFAA) | Wilfrid Laurier University.” Www.Wlu.Ca, 2020, [www.wlu.ca/programs/human-and-social-sciences/undergraduate/game-design-and-development-bfaa/index.html.](www.wlu.ca/programs/human-and-social-sciences/undergraduate/game-design-and-development-bfaa/index.html) Accessed 26 Nov. 2020.
+7. “Wilfrid Laurier University - Undergraduate Academic Calendar - 2019/2020 - University Undergraduate Regulations - Academic Regulations - Progression Requirements.” Academic-Calendar.Wlu.Ca, 2019, [academic-calendar.wlu.ca/section.php?cal=1&s=936&sp=3229&ss=3881&y=79#Academic_Probation__General_BA_Degree_Programs.](https://academic-calendar.wlu.ca/section.php?cal=1&s=936&sp=3229&ss=3881&y=79#Academic_Probation__General_BA_Degree_Programs) Accessed 25 Nov. 2020.
+8. Game Developer Salaries in Canada.” Glassdoor.Ca, 2020, [www.glassdoor.ca/Salaries/canada-game-developer-salary-SRCH_IL.0,6_IN3_KO7,21.htm?countryRedirect=true.](https://www.glassdoor.ca/Salaries/canada-game-developer-salary-SRCH_IL.0,6_IN3_KO7,21.htm?countryRedirect=true) Accessed 25 Nov. 2020.
+#### images 
+[50 top video game companies in the world](https://www.glassdoor.ca/Salaries/canada-game-developer-salary-SRCH_IL.0,6_IN3_KO7,21.htm?countryRedirect=true)
+[graduation cap](https://i5.walmartimages.com/asr/446a6a0b-db47-4984-a2f9-81c12ac52d7f_1.f193e0fa597c8d1b2ff51e777a187345.png)
+[Vankrupt](https://cdna.artstation.com/p/recruitment_companies/logos/000/000/794/thumb/logosingle.jpg?1569428304)
+[Wilfrid Laurier](http://dgrantconstruction.com/wp-content/uploads/2016/11/wilfrid-laurier-research-academic-centre-east-01.jpg)
